@@ -1,4 +1,4 @@
-# Email-generator
+# Email generator
 This Python script generates a list of random email addresses based on a given or a specific domain. It's useful for creating test data or generating a large number of email addresses for a project.
 
 
